@@ -1,4 +1,4 @@
-# To run the program : node Knowyourlocation.js > AboutYourLocation.pdf
+# To run the program : node knowyourlocation.js > AboutYourLocation.pdf
 
 Program to get general information about your location including distance from Airport, Railway Station
 and list of nearby public amenities using browser automation through Puppeteer, here we scrap data from Google Maps.
